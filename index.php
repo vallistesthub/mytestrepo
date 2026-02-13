@@ -1,3 +1,3 @@
 <?php
-echo "Hello this is new change from GitHub ! Welcome !";
+echo "Hello this is file from master branch  !";
 ?>
