@@ -1,3 +1,3 @@
  <?php
-echo "Hello from GitHub chnages at new main branch! Welcome !";
+echo "Hello from GitHub changes at new main branch for test2!!";
 ?>
